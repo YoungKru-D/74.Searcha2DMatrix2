@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">74 search 2d  matrix</string>
+
+    <string name="lineinput">Enter the number of rows of the matrix:</string>
+
+    <string name="colouminput">Enter the number of matrix columns:</string>
+
+    <string name="elementinput">Enter the elements of the matrix:</string>
+
+    <string name="targetinput">Enter the target number:</string>
+
+    <string name="search">Search</string>
+    <string name="resulthint">RESULT</string>
+
+    --main--
+    <string name="result">The %1$s number is found in the matrix.</string>
+    <string name="result2">The %1$s number is not found in the matrix.</string>
+</resources>
